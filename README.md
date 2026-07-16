@@ -1,10 +1,13 @@
-# Sonicfonia
+![sonicfonia](https://github.com/waghmare-sujit/sonicfonia/blob/1e5714f72047fc22e7e926bf41785452ad07d0a5/assets/sonicfonia.png)
 
 <div align="center">
 <img src="https://img.shields.io/github/v/release/sujit-waghmare/sonicfonia?color=blue&style=flat" />&nbsp;<img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat" />&nbsp;<img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat" />&nbsp;<img src="https://img.shields.io/github/release-date/sujit-waghmare/sonicfonia?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-brightgreen?style=flat" />
 </div>
 
+<p align="center">
 Play YouTube audio for your notes, driven entirely by frontmatter properties. Supports single videos, playlists, shuffle, and repeat.
+</p>
+
 
 ## What it does
 
