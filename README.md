@@ -88,7 +88,7 @@ Available via the command palette (`Ctrl/Cmd+P`), and bindable to hotkeys:
 - Next track
 - Previous track
 
-## Getting a YouTube API key
+## [Getting a YouTube API key](https://www.youtube.com/watch?v=VqML5F8hcRQ)
 
 Only needed for playlists. Free, no billing required for normal use.
 
