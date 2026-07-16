@@ -1,0 +1,11 @@
+{
+	"id": "sonicfonia",
+	"name": "Sonicfonia",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Play YouTube audio for a note based on frontmatter properties. Supports single videos, playlists, shuffle, and repeat.",
+	"author": "Sujit Waghmare",
+	"authorUrl": "https://github.com/waghmare-sujit",
+  "fundingUrl": "https://paypal.me/waghmaresujit",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,17 @@
+/* Sonicfonia — plugin styles */
+
+.sonicfonia-status {
+  font-size: 12px;
+  opacity: 0.85;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.sonicfonia-status:hover {
+  opacity: 1;
+}
+
+.sonicfonia-desc {
+  color: var(--text-muted);
+  margin-bottom: 1em;
+}
