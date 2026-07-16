@@ -1,6 +1,8 @@
 # Sonicfonia
 
-<img src="https://img.shields.io/github/v/release/sujit-waghmare/sonicfonia?color=blue&style=flat" /><br><img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat" /><br><img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat" /><br><img src="https://img.shields.io/github/release-date/sujit-waghmare/sonicfonia?style=flat" /><br><img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-brightgreen?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/github/v/release/sujit-waghmare/sonicfonia?color=blue&style=flat" />&nbsp;<img src="https://img.shields.io/badge/Obsidian-v0.15.0+-purple?style=flat" />&nbsp;<img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat" />&nbsp;<img src="https://img.shields.io/github/release-date/sujit-waghmare/sonicfonia?style=flat" />&nbsp;<img src="https://img.shields.io/badge/Mobile%20Friendly-Yes-brightgreen?style=flat" />
+</div>
 
 Play YouTube audio for your notes, driven entirely by frontmatter properties. Supports single videos, playlists, shuffle, and repeat.
 
@@ -147,6 +149,10 @@ Confirm the API key is set and the playlist is public.
 Switch notes and back, or run Sonicfonia: Stop audio then play again.
 </details>
 
+## Tutorial
+
+Check [guide](./assets/Sonicfonia-Tutorial.md) for detailed tutorial.
+
 ## License
 
 See [LICENSE](./LICENSE). Free to use and modify for personal use; redistribution for sale is not permitted.
@@ -173,6 +179,9 @@ Building and maintaining these tools takes significant time and energy. Your tip
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=upi://pay?pa=exotic.sus@axl&pn=Sujit%20Rajabhau%20Waghmare&cu=INR" alt="UPI QR Code" />
 </details>
 
-## Author
+---
 
-[Sujit Waghmare](https://github.com/waghmare-sujit)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/301773761?v=4" width="24" height="24" valign="middle" alt="avatar">
+  <a href="https://github.com/waghmare-sujit">Sujit Waghmare</a>
+</div>
