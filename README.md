@@ -151,11 +151,11 @@ Switch notes and back, or run Sonicfonia: Stop audio then play again.
 
 ## Tutorial
 
-Check [guide](./assets/Sonicfonia-Tutorial.md) for detailed tutorial.
+Check [guide](https://github.com/waghmare-sujit/sonicfonia/blob/123a4f1e665b20efd4a787c7ac44b7b7a6f2dc29/assets/sonicfonia-tutorial.md) for detailed tutorial.
 
 ## License
 
-See [LICENSE](./LICENSE). Free to use and modify for personal use; redistribution for sale is not permitted.
+See [LICENSE](https://github.com/waghmare-sujit/sonicfonia/blob/123a4f1e665b20efd4a787c7ac44b7b7a6f2dc29/LICENSE). Free to use and modify for personal use; redistribution for sale is not permitted.
 
 ## Support
 Building and maintaining these tools takes significant time and energy. Your tips keep the caffeine flowing and helps me stay focused on delivering high-quality, reliable products for the community. 
