@@ -88,7 +88,7 @@ Available via the command palette (`Ctrl/Cmd+P`), and bindable to hotkeys:
 - Next track
 - Previous track
 
-## [Getting a YouTube API key](https://www.youtube.com/watch?v=VqML5F8hcRQ)
+## Getting a YouTube API key
 
 Only needed for playlists. Free, no billing required for normal use.
 
@@ -99,6 +99,13 @@ Only needed for playlists. Free, no billing required for normal use.
 5. Paste the key into `Settings → Sonicfonia → YouTube Data API key`
 
 Optional: restrict the key to the YouTube Data API v3 in Cloud Console for extra safety.
+
+<details>
+  <summary>Click to view video</summary>
+  <br>
+  <a href="https://www.youtube.com/watch?v=VqML5F8hcRQ">
+    <img src="https://img.youtube.com/vi/VqML5F8hcRQ/0.jpg" alt="Watch the video" width="300"></a>
+</details>
 
 ## FAQ
 <details>
